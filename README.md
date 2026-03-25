@@ -1,5 +1,7 @@
 # ShaguTweaks-extras
 
+***UPDATED FOR TWOW 1.18.1 COMPATIBILITY - REVEAL UNEXPLORED FIX*** 
+
 This addon extends the capabilities of [ShaguTweaks](https://github.com/shagu/ShaguTweaks) by offering optional modules that can be easily toggled on or off. The new features integrate fully with the "Advanced Options" panel, providing a seamless experience.
 
 For a detailed view of what's new and improved, check out the feature list below.
