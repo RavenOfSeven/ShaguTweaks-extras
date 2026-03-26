@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Title: |cffffcc00Shagu|cffffffffTweaks |cffcccccc[Extras]
-## Author: Shagu
+## Author: Shagu - modified by paokkerkir
 ## Notes: A collection of tweaks and enhancements to the Default UI
 ## Notes-ruRU: Коллекция настроек и улучшений для стандартного пользовательского интерфейса.
 ## Version: GIT
